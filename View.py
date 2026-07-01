@@ -636,3 +636,4 @@ class StockView(QWidget):
                 if isinstance(delegate, DelegateDelete):
                     delegate.onButtonDelete(data[0])
 
+#testing
